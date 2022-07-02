@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1519904952 source:c:\users\tanzi\desktop\c+-\login\librerie\dialogmain_func.c
+	"../Login.h"
+
+1519904952 source:c:\users\tanzi\desktop\c+-\login\librerie\dialogsec_func.c
+	"../Login.h"
+
+1519904952 source:c:\users\tanzi\desktop\c+-\login\librerie\utile_func.c
+	"../Login.h"
+
+1519904874 source:c:\users\tanzi\desktop\c+-\login\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+	"Login.h"
+
+1519904726 c:\users\tanzi\desktop\c+-\login\resource.h
+
+1519904702 c:\users\tanzi\desktop\c+-\login\login.h
+	<windows.h>
+	<windowsx.h>
+	<string.h>
+	<time.h>
+	"resource.h"
+
+1519904490 source:c:\users\tanzi\desktop\c+-\login\main.c
+	"Librerie\DialogMain_Func.c"
+	"Librerie\DialogSec_Func.c"
+	"Librerie\Utile_Func.c"
+	"resource.h"
+	"Login.h"
+
+1519904952 c:\users\tanzi\desktop\c+-\login\librerie\dialogmain_func.c
+	"../Login.h"
+
+1519904952 c:\users\tanzi\desktop\c+-\login\librerie\dialogsec_func.c
+	"../Login.h"
+
+1519904952 c:\users\tanzi\desktop\c+-\login\librerie\utile_func.c
+	"../Login.h"
+
+1519988140 source:c:\users\tanzi\desktop\login\librerie\dialogmain_func.c
+	"..\Login.h"
+
+1520114837 c:\users\tanzi\desktop\login\login.h
+	<windows.h>
+	<windowsx.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	"resource.h"
+
+1520116296 c:\users\tanzi\desktop\login\resource.h
+
+1519984843 source:c:\users\tanzi\desktop\login\librerie\dialogsec_func.c
+	"..\Login.h"
+
+1519987675 source:c:\users\tanzi\desktop\login\librerie\utile_func.c
+	"..\Login.h"
+
+1520096482 source:c:\users\tanzi\desktop\login\main.c
+	"Login.h"
+
+1519982113 c:\users\tanzi\desktop\login\librerie\dialogmain_func.c
+	"..\Login.h"
+
+1519982113 c:\users\tanzi\desktop\login\librerie\dialogsec_func.c
+	"..\Login.h"
+
+1519982113 c:\users\tanzi\desktop\login\librerie\utile_func.c
+	"..\Login.h"
+
+1520116560 source:c:\users\tanzi\desktop\login\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1519982091 c:\users\tanzi\desktop\login\general.h
+	"Login.h"
+
+1519983061 c:\users\tanzi\desktop\login\main.c
+	"Login.h"
+
+1520081841 source:c:\users\tanzi\desktop\login - copia\librerie\dialogsec_func.c
+	"..\Login.h"
+
+1520080687 c:\users\tanzi\desktop\login - copia\login.h
+	<windows.h>
+	<windowsx.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	"resource.h"
+
+1520081364 c:\users\tanzi\desktop\login - copia\resource.h
+
+1520081269 source:c:\users\tanzi\desktop\login - copia\librerie\utile_func.c
+	"..\Login.h"
+
+1519984128 source:c:\users\tanzi\desktop\login - copia\main.c
+	"Login.h"
+
+1520081364 source:c:\users\tanzi\desktop\login - copia\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1520077952 source:c:\users\tanzi\desktop\login - copia\librerie\dialogmain_func.c
+	"..\Login.h"
+
+1520115964 source:c:\users\tanzi\desktop\login\_librerie\dialogmain_func.c
+	"..\Login.h"
+
+1520107077 source:c:\users\tanzi\desktop\login\_librerie\dialogsec_func.c
+	"..\Login.h"
+
+1520113141 source:c:\users\tanzi\desktop\login\_librerie\utile_func.c
+	"..\Login.h"
+
+1520115966 source:d:\login\_librerie\dialogmain_func.c
+	"..\Login.h"
+
+1520114838 d:\login\login.h
+	<windows.h>
+	<windowsx.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	"resource.h"
+
+1546297134 d:\login\resource.h
+
+1520107078 source:d:\login\_librerie\dialogsec_func.c
+	"..\Login.h"
+
+1520113142 source:d:\login\_librerie\utile_func.c
+	"..\Login.h"
+
+1520096484 source:d:\login\main.c
+	"Login.h"
+
+1546297134 source:d:\login\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1520115966 source:e:\login\_librerie\dialogmain_func.c
+	"..\Login.h"
+
+1520114838 e:\login\login.h
+	<windows.h>
+	<windowsx.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	"resource.h"
+
+1546297134 e:\login\resource.h
+
+1520107078 source:e:\login\_librerie\dialogsec_func.c
+	"..\Login.h"
+
+1520113142 source:e:\login\_librerie\utile_func.c
+	"..\Login.h"
+
+1520096484 source:e:\login\main.c
+	"Login.h"
+
+1520452154 source:c:\users\tanzi\desktop\nuova cartella\login\_librerie\dialogmain_func.c
+	"..\Login.h"
+
+1520451745 c:\users\tanzi\desktop\nuova cartella\login\login.h
+	<windows.h>
+	<windowsx.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	"resource.h"
+
+1520452004 c:\users\tanzi\desktop\nuova cartella\login\resource.h
+
+1520451793 source:c:\users\tanzi\desktop\nuova cartella\login\_librerie\dialogsec_func.c
+	"..\Login.h"
+
+1520452186 source:c:\users\tanzi\desktop\nuova cartella\login\_librerie\utile_func.c
+	"..\Login.h"
+
+1520096484 source:c:\users\tanzi\desktop\nuova cartella\login\main.c
+	"Login.h"
+
+1520452004 source:c:\users\tanzi\desktop\nuova cartella\login\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1520461462 source:d:\sistemidafare\nuova cartella\login\_librerie\dialogmain_func.c
+	"..\Login.h"
+
+1520460172 d:\sistemidafare\nuova cartella\login\login.h
+	<windows.h>
+	<windowsx.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	"resource.h"
+
+1520452006 d:\sistemidafare\nuova cartella\login\resource.h
+
+1520451794 source:d:\sistemidafare\nuova cartella\login\_librerie\dialogsec_func.c
+	"..\Login.h"
+
+1520461534 source:d:\sistemidafare\nuova cartella\login\_librerie\utile_func.c
+	"..\Login.h"
+
+1520096484 source:d:\sistemidafare\nuova cartella\login\main.c
+	"Login.h"
+
+1520452006 source:d:\sistemidafare\nuova cartella\login\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1520459880 source:d:\sistemidafare\nuova cartella\login\_librerie\databaseaccount.c
+	"..\Login.h"
+
+1520505470 source:e:\sistemidafare\vecchio\nuovoconfile\login\_librerie\dialogmain_func.c
+	"..\Login.h"
+
+1520460172 e:\sistemidafare\vecchio\nuovoconfile\login\login.h
+	<windows.h>
+	<windowsx.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	"resource.h"
+
+1520507176 e:\sistemidafare\vecchio\nuovoconfile\login\resource.h
+
+1520451794 source:e:\sistemidafare\vecchio\nuovoconfile\login\_librerie\dialogsec_func.c
+	"..\Login.h"
+
+1520504094 source:e:\sistemidafare\vecchio\nuovoconfile\login\_librerie\utile_func.c
+	"..\Login.h"
+
+1520096484 source:e:\sistemidafare\vecchio\nuovoconfile\login\main.c
+	"Login.h"
+
+1520507176 source:e:\sistemidafare\vecchio\nuovoconfile\login\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1520451794 source:d:\sistemidafare\nuovoconfile2\login\_librerie\dialogsec_func.c
+	"..\Login.h"
+
+1520460172 d:\sistemidafare\nuovoconfile2\login\login.h
+	<windows.h>
+	<windowsx.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	"resource.h"
+
+1520531564 d:\sistemidafare\nuovoconfile2\login\resource.h
+
+1520533342 source:d:\sistemidafare\nuovoconfile2\login\_librerie\utile_func.c
+	"..\Login.h"
+
+1520096484 source:d:\sistemidafare\nuovoconfile2\login\main.c
+	"Login.h"
+
+1520531564 source:d:\sistemidafare\nuovoconfile2\login\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1520532244 source:d:\sistemidafare\nuovoconfile2\login\_librerie\dialogmain_func.c
+	"..\Login.h"
+
